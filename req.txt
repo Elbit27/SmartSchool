@@ -1,0 +1,7 @@
+django
+djangorestframework
+Pillow
+configparser
+psycopg2-binary
+
+
